@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me 
 Hello, I'm Nilesh Kumar, a passionate 4th-year Computer Science<br>Engineering student at Guru Ghasidas University, Bilaspur.<br><br>As a Full Stack Web Developer, my skills encompass HTML, CSS,<br>JavaScript, Tailwind CSS, React.js, Python, C, C++, Git, MySQL and<br>MongoDB. <br><br>I excel in Data Structures and Algorithms, showcasing<br>strong problem-solving abilities.
 
 
@@ -15,7 +15,8 @@ Hello, I'm Nilesh Kumar, a passionate 4th-year Computer Science<br>Engineering s
 ![](https://github-contributor-stats.vercel.app/api?username=nilesh0198&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-## 🌐 Socials:                     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilesh0198) 
+## 🌐 Socials:                    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilesh0198) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nilesh0198&icon=0&color=0)](https://visitcount.itsvg.in)
